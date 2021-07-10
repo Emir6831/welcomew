@@ -1,0 +1,18 @@
+{
+  "tokens": [
+"ODYzNDQzMTAyNjAwMjY1NzMw.YOm-DQ.amGfXDH52BNhbFK_iDBuyptnLdQ",
+"ODYzNDQzNTk1OTU2NDUzMzc2.YOm-gw.fT-gGHn8gG7HA6QItp70w2f5Ydg",
+"ODYzNDQzNzc2MTU2NzI5MzQ3.YOm-rg.cDEHgM6Tdp_5IOdO1VbY9wpsIIQ"],
+  "channels": [
+    "853491259490828300",
+    "853491271826145330",
+    "853491313436917770"],
+
+  "staffRoles": [
+    "853365481884090398"],
+
+  "unregisterRoles": ["853369505559871498"],
+
+  "welcomeSound": "https://cdn.discordapp.com/attachments/837607150985543720/850420636869984306/Ses_009.mp3",
+  "staffSound": "https://cdn.discordapp.com/attachments/837607150985543720/850420640016236574/Ses_011.mp3"
+}
