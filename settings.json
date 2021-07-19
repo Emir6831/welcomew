@@ -1,12 +1,14 @@
 {
   "tokens": [
-"ODYzNDQzMTAyNjAwMjY1NzMw.YOm-DQ.amGfXDH52BNhbFK_iDBuyptnLdQ",
-"ODYzNDQzNTk1OTU2NDUzMzc2.YOm-gw.fT-gGHn8gG7HA6QItp70w2f5Ydg",
-"ODYzNDQzNzc2MTU2NzI5MzQ3.YOm-rg.cDEHgM6Tdp_5IOdO1VbY9wpsIIQ"],
+  "token1": "ODYzNDg5MTg1NTg3MDAzNDAz.YOno-A.weT87Wnq9FgTXxLYfXv55nNrHTM",
+  "token2": "ODYzNzE1OTcyNDY4ODM0MzMy.YOq8Lg.6UcQ7bc0AM8-knBszpa6B1vr0zk",
+  "token3": "ODYzNDg5MzgxNDMyMDMzMjgw.YOnpJw.fddfCBU6ApDmoNvaM6pIBFuVIxM",
+  "token4": "ODYzNDQzMTAyNjAwMjY1NzMw.YOm-DQ.93oOsCaOkW5bS9Mm8LzpKwhVCMg",
+  "token5": "ODYzNDg5MzgxNDMyMDMzMjgw.YOnpJw.fddfCBU6ApDmoNvaM6pIBFuVIxM",],
   "channels": [
-    "853491259490828300",
-    "853491271826145330",
-    "853491313436917770"],
+    "866028274625806364",
+    "866028275703611403",
+    "866028276580876298"],
 
   "staffRoles": [
     "853365481884090398"],
